@@ -1,0 +1,16 @@
+E:\CodeBox\Project-Estudos\GitHub\C12-Task\Project.Task.Example\Project.Exemple\Example.Application\obj\Debug\net5.0\Example.Application.csproj.AssemblyReference.cache
+E:\CodeBox\Project-Estudos\GitHub\C12-Task\Project.Task.Example\Project.Exemple\Example.Application\obj\Debug\net5.0\Example.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeBox\Project-Estudos\GitHub\C12-Task\Project.Task.Example\Project.Exemple\Example.Application\obj\Debug\net5.0\Example.Application.AssemblyInfoInputs.cache
+E:\CodeBox\Project-Estudos\GitHub\C12-Task\Project.Task.Example\Project.Exemple\Example.Application\obj\Debug\net5.0\Example.Application.AssemblyInfo.cs
+E:\CodeBox\Project-Estudos\GitHub\C12-Task\Project.Task.Example\Project.Exemple\Example.Application\obj\Debug\net5.0\Example.Application.csproj.CoreCompileInputs.cache
+E:\CodeBox\Project-Estudos\GitHub\C12-Task\Project.Task.Example\Project.Exemple\Example.Application\bin\Debug\net5.0\Example.Application.exe
+E:\CodeBox\Project-Estudos\GitHub\C12-Task\Project.Task.Example\Project.Exemple\Example.Application\bin\Debug\net5.0\Example.Application.deps.json
+E:\CodeBox\Project-Estudos\GitHub\C12-Task\Project.Task.Example\Project.Exemple\Example.Application\bin\Debug\net5.0\Example.Application.runtimeconfig.json
+E:\CodeBox\Project-Estudos\GitHub\C12-Task\Project.Task.Example\Project.Exemple\Example.Application\bin\Debug\net5.0\Example.Application.runtimeconfig.dev.json
+E:\CodeBox\Project-Estudos\GitHub\C12-Task\Project.Task.Example\Project.Exemple\Example.Application\bin\Debug\net5.0\Example.Application.dll
+E:\CodeBox\Project-Estudos\GitHub\C12-Task\Project.Task.Example\Project.Exemple\Example.Application\bin\Debug\net5.0\ref\Example.Application.dll
+E:\CodeBox\Project-Estudos\GitHub\C12-Task\Project.Task.Example\Project.Exemple\Example.Application\bin\Debug\net5.0\Example.Application.pdb
+E:\CodeBox\Project-Estudos\GitHub\C12-Task\Project.Task.Example\Project.Exemple\Example.Application\obj\Debug\net5.0\Example.Application.dll
+E:\CodeBox\Project-Estudos\GitHub\C12-Task\Project.Task.Example\Project.Exemple\Example.Application\obj\Debug\net5.0\ref\Example.Application.dll
+E:\CodeBox\Project-Estudos\GitHub\C12-Task\Project.Task.Example\Project.Exemple\Example.Application\obj\Debug\net5.0\Example.Application.pdb
+E:\CodeBox\Project-Estudos\GitHub\C12-Task\Project.Task.Example\Project.Exemple\Example.Application\obj\Debug\net5.0\Example.Application.genruntimeconfig.cache
